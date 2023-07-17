@@ -1,0 +1,10 @@
+*
+
+!.gitignore
+!*.py
+!README.md
+!header.tex
+!md_to_docx.docx
+!docx_to_pdf.pdf
+!Dockerfile
+!13.pdf
